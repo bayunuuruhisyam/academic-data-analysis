@@ -23,9 +23,6 @@ Tujuan dari proyek ini adalah:
   Berisi dataset yang digunakan dalam analisis
 - **notebooks/**  
   Berisi notebook Jupyter untuk proses analisis data
-- **report/** *(opsional)*  
-  Berisi laporan hasil analisis dalam format PDF
-
 ---
 
 ## Tools & Teknologi
