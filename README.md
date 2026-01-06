@@ -1,6 +1,6 @@
 # Intelligent Classroom Data Analysis
 
-## 📘 Ringkasan Proyek
+## Ringkasan Proyek
 Proyek ini berfokus pada analisis data kategorikal dari lingkungan kelas pintar
 (intelligent classroom). Analisis dilakukan untuk memahami pola dan karakteristik
 data berdasarkan variabel yang tersedia dalam dataset.
@@ -9,7 +9,7 @@ Proyek ini dikembangkan untuk keperluan pembelajaran dan portofolio.
 
 ---
 
-## 🎯 Tujuan
+## Tujuan
 Tujuan dari proyek ini adalah:
 - Melakukan eksplorasi data kategorikal
 - Memahami distribusi dan hubungan antar variabel
@@ -18,7 +18,7 @@ Tujuan dari proyek ini adalah:
 
 ---
 
-## 🗂 Struktur Repository
+## Struktur Repository
 - **data/**  
   Berisi dataset yang digunakan dalam analisis
 - **notebooks/**  
@@ -28,7 +28,7 @@ Tujuan dari proyek ini adalah:
 
 ---
 
-## 🛠 Tools & Teknologi
+## Tools & Teknologi
 - Python  
 - Jupyter Notebook  
 - Pandas  
@@ -37,7 +37,7 @@ Tujuan dari proyek ini adalah:
 
 ---
 
-## 📊 Output
+## Output
 Hasil dari proyek ini meliputi:
 - Analisis eksploratif data (EDA)
 - Visualisasi data kategorikal
@@ -46,6 +46,6 @@ Hasil dari proyek ini meliputi:
 
 ---
 
-## ℹ️ Catatan
+## Catatan
 Proyek ini merupakan proyek akademik yang dipublikasikan untuk tujuan pembelajaran
 dan portofolio. Dataset yang digunakan tidak mengandung data sensitif.
